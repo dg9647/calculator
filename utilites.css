@@ -1,0 +1,25 @@
+.text-center{
+    text-align: center;
+    margin: 0px;
+}
+.spbutton{
+    background-color: yellow;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor:pointer;
+}
+.mx-auto{
+    margin:auto;
+}
+.flex{
+    display: flex;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}

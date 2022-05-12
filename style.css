@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+html,body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Koulen',sans-serif;
+    font-weight: bolder;
+    background-color: black;
+}
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    background-color: white;
+    cursor:pointer;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+    font-weight: bolder;
+    font-size: 19px;
+    margin: 2px;
+    padding: 4px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
